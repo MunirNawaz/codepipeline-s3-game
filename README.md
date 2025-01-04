@@ -2,7 +2,7 @@
 
 This repo contains the code files used in this [YouTube video](https://youtu.be/biYVW1TMYAU).
 
-## TL;DR
+## TiLDR
 Code for a game is hosted in GitHub.  We create an S3 bucket for static website hosting, then create a continuous deployment pipeline (using AWS Code Pipeline) to automatically deploy the code whenever changes are made.
 
 ## The Game
